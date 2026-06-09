@@ -28,8 +28,8 @@ To write a Java program that demonstrates the use of static and non-static metho
 ```
 /*
 Program to implement a Access Modifiers using Java
-Developed by: H AARON
-RegisterNumber: 212223040001
+Developed by: Lakshmi Priya V
+RegisterNumber: 212223220049
 */
 ```
 
